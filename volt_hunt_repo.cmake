@@ -21,3 +21,9 @@ hunter_config(volt_ge
     URL "https://github.com/SirHall/volt_ge/archive/v0.0.1.tar.gz"
     SHA1 "852014430560d0962319bee293d3f3f7f854a7d1"
 )
+
+hunter_config(entt
+    VERSION 3.5.2
+    URL "https://github.com/skypjack/entt/archive/v3.5.2.tar.gz"
+    SHA1 "edd675864814622b50ac074f70c55f18c23a2807" 
+)
