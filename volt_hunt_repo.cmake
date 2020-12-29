@@ -12,8 +12,8 @@ hunter_config(volt_net
 
 hunter_config(volt_gfx
     VERSION 0.0.8
-    URL "https://github.com/SirHall/volt_gfx/archive/v0.0.8.tar.gz"
-    SHA1 "e8950a61801631c7ed17fdaf20d593c101743656"
+    URL "https://github.com/SirHall/volt_gfx/archive/v0.0.9.tar.gz"
+    SHA1 "a3cc224964ac0beaa73b5bb4725e59529ad76a0c"
 )
 
 hunter_config(volt_ge
