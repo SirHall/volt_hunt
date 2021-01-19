@@ -5,9 +5,9 @@ hunter_config(volt_event
 )
 
 hunter_config(volt_net
-    VERSION 0.0.13
-    URL "https://github.com/SirHall/volt_net/archive/v0.0.13.tar.gz"
-    SHA1 "7ffda97eab36e6df83d47869923809b36306b99f"
+    VERSION 0.0.14
+    URL "https://github.com/SirHall/volt_net/archive/v0.0.14.tar.gz"
+    SHA1 "9f6f25dd394c26d72318aed70cc57c70d3ae658d"
 )
 
 hunter_config(volt_gfx
