@@ -27,3 +27,9 @@ hunter_config(volt_entt
     URL "https://github.com/SirHall/volt_entt/archive/v0.0.1.tar.gz"
     SHA1 "778f689c17ef567024fda58d1c137b22f610668f" 
 )
+
+hunter_config(volt_mod
+    VERSION 0.0.1
+    URL "https://github.com/SirHall/volt_mod/archive/refs/tags/v0.0.1.tar.gz"
+    SHA1 "54b80d821844d827b9f0bf64c5e72a4b879251f5" 
+)
