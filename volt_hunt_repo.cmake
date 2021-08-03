@@ -33,3 +33,9 @@ hunter_config(volt_mod
     URL "https://github.com/SirHall/volt_mod/archive/refs/tags/v0.0.1.tar.gz"
     SHA1 "54b80d821844d827b9f0bf64c5e72a4b879251f5" 
 )
+
+hunter_config(entt
+    VERSION 3.8.1
+    URL "https://github.com/skypjack/entt/archive/refs/tags/v3.8.1.tar.gz"
+    SHA1 "659f953d7bd5c23297674ead318860b152b58d35"
+)
