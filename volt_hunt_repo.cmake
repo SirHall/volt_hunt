@@ -5,15 +5,15 @@ hunter_config(volt_event
 )
 
 hunter_config(volt_net
-    VERSION 0.0.14
-    URL "https://github.com/SirHall/volt_net/archive/v0.0.14.tar.gz"
-    SHA1 "9f6f25dd394c26d72318aed70cc57c70d3ae658d"
+    VERSION 0.0.15
+    URL "https://github.com/SirHall/volt_net/archive/refs/tags/v0.0.15.tar.gz"
+    SHA1 "585dc954ac627b5339ff96d84cc49268e9368496"
 )
 
 hunter_config(volt_gfx
-    VERSION 0.0.12
-    URL "https://github.com/SirHall/volt_gfx/archive/v0.0.12.tar.gz"
-    SHA1 "34a2dc64e4b0d1b93413f0bbd48e99b14e793179"
+    VERSION 0.0.13
+    URL "https://github.com/SirHall/volt_gfx/archive/refs/tags/v0.0.13.tar.gz"
+    SHA1 "8c5653dd858221b91a4397e50b80abcb824eeba2"
 )
 
 hunter_config(volt_ge
