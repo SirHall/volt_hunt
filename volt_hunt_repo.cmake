@@ -39,3 +39,9 @@ hunter_config(entt
     URL "https://github.com/skypjack/entt/archive/refs/tags/v3.8.1.tar.gz"
     SHA1 "659f953d7bd5c23297674ead318860b152b58d35"
 )
+
+hunter_config(eris
+    VERSION 5.2.4
+    URL "https://github.com/SirHall/eris/archive/refs/tags/v5.2.4.tar.gz"
+    SHA1 "b6e6d0c9b0b4d89b53ccb9131fd706d49adb7c20"
+)
