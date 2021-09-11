@@ -41,7 +41,7 @@ hunter_config(entt
 )
 
 hunter_config(eris
-    VERSION 5.2.7
-    URL "https://github.com/SirHall/eris/archive/refs/tags/v5.2.7.tar.gz"
-    SHA1 "c536d0bbd867e2ff3d9ba7469931cbb4efbc9519"
+    VERSION 5.2.9
+    URL "https://github.com/SirHall/eris/archive/refs/tags/v5.2.9.tar.gz"
+    SHA1 "5be9d6a753870d63c49b5cb92d3552b14e2bd9b4"
 )
